@@ -9,6 +9,7 @@ while True:
     print('[2] Calça')
     print('[3] Vestido')
     print('[4] Encerrar sessão')
+    
     #Pergunta a opção ao opção ao usuário
     print('---------' * 5)
     resposta = int(input('Sua escolha é: '))
